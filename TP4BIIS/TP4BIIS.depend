@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1695148642 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\tp4biis\alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+
+1695148586 c:\users\usuario\documents\plantillas personalizadas de office\lucas\tp4biis\alumno.h
+
+1695151464 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\tp4biis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"alumno.h"
+	"lista.h"
+
+1696368320 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\tp4biis\lista.c
+	"lista.h"
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1695151464 c:\users\usuario\documents\plantillas personalizadas de office\lucas\tp4biis\lista.h
+	"alumno.h"
+
